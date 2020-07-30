@@ -13,7 +13,7 @@ Here's a sneak-peek of my latest project in Self-Driving Car Engineering. Using 
   <img alt="A machine vision model that recognizes highway road lines in video format" src="https://user-images.githubusercontent.com/22490250/88982693-f7a5ff80-d296-11ea-8286-ef113269abba.gif?raw=true" title="A machine vision model that recognizes highway road lines in video format"/>
 </p>
 
------------
+
 ## Goals for 2020 🔭
 I've dedicated this year to delving head-first into the world of machine learning and expanding my abilities to communicate with others -- starting with Arabic (**مرحبا**).
 
@@ -23,7 +23,7 @@ I've dedicated this year to delving head-first into the world of machine learnin
 - [Thinking, Fast & Slow](https://www.amazon.ca/Thinking-Fast-Slow-Daniel-Kahneman/dp/0385676530/ref=sr_1_1?dchild=1&qid=1596147721&refinements=p_27%3ADaniel+Kahneman&s=books&sr=1-1&text=Daniel+Kahneman) - Daniel Kahneman
 - [The Undoing Project](https://www.amazon.ca/Undoing-Project-Friendship-Changed-Minds/dp/0393254593/ref=sr_1_6?dchild=1&qid=1596148069&refinements=p_27%3AMichael+Lewis&s=books&sr=1-6&text=Michael+Lewis) - Michael Lewis
 
------------
+
 ## How to reach me ☕
 [![Linkedin](https://img.shields.io/badge/-Devon_Fazekas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devon-fazekas/)](https://www.linkedin.com/in/devon-fazekas/)
 [![Portfolio](https://img.shields.io/badge/-DevonFazekas.com-CD52FF?style=flat&logo=Google&logoColor=white&link=https://www.DevonFazekas.com/)](https://www.DevonFazekas.com/)
