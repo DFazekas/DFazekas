@@ -1,6 +1,7 @@
 # Hi, I'm Devon 👨‍💻
 I'm a software engineer with a background in biomedical sciences. As far back as I can remember, my passion is in helping people and making a difference in their lives. From business relations to binary code, I aspire to be a [level-5 leader](https://www.jimcollins.com/concepts/level-five-leadership.html "Good to Great, Jim Collins") in whatever I'm doing and bring out the best in people because that's when the magic happens.
-![Header](https://user-images.githubusercontent.com/22490250/88862912-75063d00-d1cf-11ea-8367-4f6fbe17a59e.png "Devon Fazekas, software engineer, entrepreneur, and philanthropist")
+![Header](https://user-images.githubusercontent.com/22490250/144867248-a1ebf1bc-b516-46d4-88c2-f45ee0bf9a13.png "Devon Fazekas, software engineer, entrepreneur, and philanthropist")
+
 
 ## More about me
 - 🌱 I’m currently studying **Machine Learning**.
